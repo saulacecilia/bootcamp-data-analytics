@@ -1,2 +1,2 @@
 # bootcamp-data-analytics
-Projetos realizados (em Python) durante o Bootcamp Data Analytics 2021/2022 da WoMakersCode.
+Projetos (em Python) realizados por mim durante o Bootcamp Data Analytics dez - 2021/ mai - 2022 da WoMakersCode.
